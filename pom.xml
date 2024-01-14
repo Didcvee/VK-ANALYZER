@@ -11,6 +11,7 @@
     <modules>
         <module>vk-search-producer</module>
         <module>vk-consumer-elasticsearch</module>
+        <module>elastic-event-listener</module>
     </modules>
 
     <properties>
