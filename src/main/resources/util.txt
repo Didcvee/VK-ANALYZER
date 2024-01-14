@@ -1,0 +1,3 @@
+788823275
+vk1.a.PfudU4ftZPJ-Y29MIFFHxuwE3XKeJC9nfnkBwXMbCH2J6TIMK4jYgKNEsU6b0904QToNTU-P3mtLBO6LXooiJDGjINm416O9spHRcc9fS6xY6haheu4TygMJjgsd7q2aUczyHQr6ActEuz52Kv3fWi1iWXeh1WhVgjw5dAsNWFnGzyg0DhoUHD5ZkbjLrACi
+kafka-console-consumer --bootstrap-server localhost:9092 --topic VK_TOPIC
